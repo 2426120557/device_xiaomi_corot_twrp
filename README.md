@@ -19,7 +19,7 @@ Works:
 - [X] ADB
 - [X] Display
 - [X] Touch 
-- [X] Fasbootd
+- [X] Fastbootd
 - [X] USB OTG
 
 ## Donate me
